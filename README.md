@@ -1,4 +1,4 @@
-# 🔍 Vulnerability Scanner
+# 🔍 WikPoint
 
 A terminal-based security scanner with six scan modes — no frameworks, minimal dependencies.
 
